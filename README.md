@@ -245,11 +245,17 @@ cd frontend && npm run dev   # terminal 2
 ---
 ## Proof of Concept:
 <img width="1470" height="728" alt="Screenshot 2026-05-03 at 11 41 06 PM" src="https://github.com/user-attachments/assets/b6a34817-a6cf-49cd-aaee-13329e8fb6fd" />
+
 <img width="1470" height="741" alt="Screenshot 2026-05-03 at 11 41 10 PM" src="https://github.com/user-attachments/assets/fe2c562d-d631-4bd2-bd91-de14d2c557e5" />
+
 <img width="1470" height="682" alt="Screenshot 2026-05-03 at 11 41 13 PM" src="https://github.com/user-attachments/assets/d207e7bf-94a9-4e6f-a76b-cd8a527d9acf" />
+
 <img width="1470" height="673" alt="Screenshot 2026-05-03 at 11 41 18 PM" src="https://github.com/user-attachments/assets/763230bc-1eb0-4106-8d13-43beac86a8b9" />
+
 <img width="1470" height="629" alt="Screenshot 2026-05-03 at 11 41 22 PM" src="https://github.com/user-attachments/assets/3da8b074-2a15-4c68-8f22-82484df7a42d" />
+
 <img width="1470" height="599" alt="Screenshot 2026-05-03 at 11 41 25 PM" src="https://github.com/user-attachments/assets/5155328e-6e3d-4efa-ba5f-09fa007d549c" />
+
 <img width="1470" height="759" alt="Screenshot 2026-05-03 at 11 41 29 PM" src="https://github.com/user-attachments/assets/242ff6f9-5016-481b-afdb-e2ef2ec96c64" />
 
 
